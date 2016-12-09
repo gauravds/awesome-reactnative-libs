@@ -26,3 +26,6 @@ http://www.reactnative.com/under-the-hood-of-react-native/
 
 ### How to
 - [Integrate into existing project]( https://facebook.github.io/react-native/docs/integration-with-existing-apps.html)
+
+### Other libs links
+- https://github.com/jondot/awesome-react-native
