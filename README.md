@@ -26,6 +26,7 @@ http://www.reactnative.com/under-the-hood-of-react-native/
 
 ### Render View
 - View in HTML https://github.com/Thomas101/react-native-fence-html
+- Initials avatar (Gmail-style) https://github.com/hicay/react-native-text-avatar
 
 ### Design & Developer Tools
 - [FB Nuclide](https://nuclide.io/)
